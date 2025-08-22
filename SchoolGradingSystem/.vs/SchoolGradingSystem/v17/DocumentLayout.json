@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556687-5501-4A57-BC6F-5EEFE2492797}|SchoolGradingSystem\\SchoolGradingSystem.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\schoolgradingsystem\\schoolgradingsystem\\report.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF556687-5501-4A57-BC6F-5EEFE2492797}|SchoolGradingSystem\\SchoolGradingSystem.csproj|solutionrelative:schoolgradingsystem\\report.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556687-5501-4A57-BC6F-5EEFE2492797}|SchoolGradingSystem\\SchoolGradingSystem.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\schoolgradingsystem\\schoolgradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF556687-5501-4A57-BC6F-5EEFE2492797}|SchoolGradingSystem\\SchoolGradingSystem.csproj|solutionrelative:schoolgradingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF556687-5501-4A57-BC6F-5EEFE2492797}|SchoolGradingSystem\\SchoolGradingSystem.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\schoolgradingsystem\\schoolgradingsystem\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF556687-5501-4A57-BC6F-5EEFE2492797}|SchoolGradingSystem\\SchoolGradingSystem.csproj|solutionrelative:schoolgradingsystem\\students.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "report.txt",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\SchoolGradingSystem\\report.txt",
+              "RelativeDocumentMoniker": "SchoolGradingSystem\\report.txt",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\SchoolGradingSystem\\report.txt",
+              "RelativeToolTip": "SchoolGradingSystem\\report.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-15T08:21:01.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\SchoolGradingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolGradingSystem\\Program.cs",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\SchoolGradingSystem\\Program.cs",
+              "RelativeToolTip": "SchoolGradingSystem\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAzJmZmZn5v3AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:35:11.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "students.txt",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\SchoolGradingSystem\\students.txt",
+              "RelativeDocumentMoniker": "SchoolGradingSystem\\students.txt",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\SchoolGradingSystem\\SchoolGradingSystem\\students.txt",
+              "RelativeToolTip": "SchoolGradingSystem\\students.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-15T08:16:58.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

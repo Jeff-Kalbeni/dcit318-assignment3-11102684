@@ -1,0 +1,5 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+John Asiedu (ID: 102): Score = 78, Grade = B
+Nana Ekow (ID: 103): Score = 79, Grade = B
+Ama Esian (ID: 104): Score = 90, Grade = A
+Dorcas Gyei (ID: 105): Score = 0, Grade = F

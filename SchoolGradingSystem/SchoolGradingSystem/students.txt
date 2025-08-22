@@ -1,0 +1,5 @@
+101, Alice Smith, 84
+102, John Asiedu, 78
+103, Nana Ekow, 79
+104, Ama Esian, 90
+105, Dorcas Gyei, 0
