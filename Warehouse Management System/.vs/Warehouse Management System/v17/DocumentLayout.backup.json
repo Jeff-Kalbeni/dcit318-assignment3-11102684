@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Warehouse Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F96B1045-AAF4-4947-95E2-EAD730C45E06}|Warehouse Management System\\Warehouse Management System.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\warehouse management system\\warehouse management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96B1045-AAF4-4947-95E2-EAD730C45E06}|Warehouse Management System\\Warehouse Management System.csproj|solutionrelative:warehouse management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Warehouse Management System\\Warehouse Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse Management System\\Program.cs",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Warehouse Management System\\Warehouse Management System\\Program.cs*",
+              "RelativeToolTip": "Warehouse Management System\\Program.cs*",
+              "ViewState": "AgIAAGEAAABAoJmZmRkQwB8AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:06:25.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

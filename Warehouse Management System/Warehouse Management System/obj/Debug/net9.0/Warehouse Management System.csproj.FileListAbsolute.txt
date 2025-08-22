@@ -1,0 +1,15 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0\Warehouse Management System.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0\Warehouse Management System.deps.json
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0\Warehouse Management System.runtimeconfig.json
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0\Warehouse Management System.dll
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\bin\Debug\net9.0\Warehouse Management System.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.AssemblyInfoInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.AssemblyInfo.cs
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.sourcelink.json
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.dll
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\refint\Warehouse Management System.dll
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\Warehouse Management System.genruntimeconfig.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment3-11102684\Warehouse Management System\Warehouse Management System\obj\Debug\net9.0\ref\Warehouse Management System.dll
