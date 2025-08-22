@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Finance_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFF3A17-8BCA-4BCE-96D8-859E3F479D02}|..\\Healthcare_System\\Healthcare_System.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\healthcare_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50D713-640F-4E41-A7B6-8B767A65BC26}|ConsoleApp1\\FinanceManagementSystem.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\finance_management_system\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50D713-640F-4E41-A7B6-8B767A65BC26}|ConsoleApp1\\FinanceManagementSystem.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Healthcare_System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Healthcare_System\\Program.cs",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Healthcare_System\\Program.cs*",
+              "RelativeToolTip": "..\\Healthcare_System\\Program.cs*",
+              "ViewState": "AgIAAJQAAAAgMzMzM5MwwG0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T17:19:37.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Finance_Management_System\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\Finance_Management_System\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAADgAAAAAYmZmZuYewEQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:46:32.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

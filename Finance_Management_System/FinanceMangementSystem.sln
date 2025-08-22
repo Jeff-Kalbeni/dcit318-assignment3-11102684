@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManagementSystem", "ConsoleApp1\FinanceManagementSystem.csproj", "{7D50D713-640F-4E41-A7B6-8B767A65BC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Healthcare_System", "..\Healthcare_System\Healthcare_System.csproj", "{DBFF3A17-8BCA-4BCE-96D8-859E3F479D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D50D713-640F-4E41-A7B6-8B767A65BC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D50D713-640F-4E41-A7B6-8B767A65BC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D50D713-640F-4E41-A7B6-8B767A65BC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D50D713-640F-4E41-A7B6-8B767A65BC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBFF3A17-8BCA-4BCE-96D8-859E3F479D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBFF3A17-8BCA-4BCE-96D8-859E3F479D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBFF3A17-8BCA-4BCE-96D8-859E3F479D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBFF3A17-8BCA-4BCE-96D8-859E3F479D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CBFC23E-6AD2-4802-908C-4CEFECBF89B3}
+	EndGlobalSection
+EndGlobal
