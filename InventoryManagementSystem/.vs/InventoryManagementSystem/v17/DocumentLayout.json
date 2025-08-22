@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146B25B8-401E-4A91-A573-23864519691D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\inventorymanagementsystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146B25B8-401E-4A91-A573-23864519691D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146B25B8-401E-4A91-A573-23864519691D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\dkp files\\lecture slides\\dcit 318\\dcit318-assignment3-11102684\\inventorymanagementsystem\\inventorymanagementsystem\\inventory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{146B25B8-401E-4A91-A573-23864519691D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inventory.json",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\InventoryManagementSystem\\InventoryManagementSystem\\inventory.json",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\inventory.json",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\InventoryManagementSystem\\InventoryManagementSystem\\inventory.json",
+              "RelativeToolTip": "InventoryManagementSystem\\inventory.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T10:48:05.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Dkp Files\\Lecture Slides\\DCIT 318\\dcit318-assignment3-11102684\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAFwAAACAZ2ZmZsY9wGYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T09:55:55.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

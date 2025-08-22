@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop stand",
+    "Quantity": 10,
+    "DateAdded": "2025-08-06T08:43:55.1438585+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "RAM Chips",
+    "Quantity": 25,
+    "DateAdded": "2025-08-11T08:43:55.1538577+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Monitor",
+    "Quantity": 10,
+    "DateAdded": "2025-08-14T08:43:55.1538628+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Laptop cover",
+    "Quantity": 8,
+    "DateAdded": "2025-08-15T08:43:55.1538631+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Keyboard",
+    "Quantity": 12,
+    "DateAdded": "2025-08-16T08:43:55.1538633+00:00"
+  }
+]
